@@ -30,7 +30,7 @@ g++ nomeDoArquivo.cpp -o nomeDoArquivo.exe
 Exemplo
 g++ helloworld.cpp -o helloworld.exe
 ./helloworld.exe
-
+```
 
 🧠 Objetivo
 
@@ -40,3 +40,4 @@ Este repositório tem como objetivo praticar os fundamentos do C++ e criar uma b
 
 Desenvolvido por PiratelloLuis
  🚀
+
