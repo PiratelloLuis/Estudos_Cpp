@@ -1,1 +1,12 @@
-.vscode
+# Ignorar todos os arquivos .exe
+*.exe
+
+# Ignorar arquivos temporários do VS Code
+.vscode/
+
+# Ignorar arquivos de build ou temporários
+build/
+out/
+*.obj
+*.o
+*.log
