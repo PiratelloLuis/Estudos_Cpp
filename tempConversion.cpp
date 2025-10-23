@@ -22,7 +22,7 @@ int main (){
         std::cout << "Enter the temperature that you would like to convert to Celsius" << std::endl;
         std::cin >> temp;
 
-        temp = (temp - 32) / 1.8;
+        temp = (temp - 32) / 1.8;           
         std::cout << "The temperature is " << temp << " F"  << std::endl;
 
     }
